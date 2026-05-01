@@ -66,7 +66,7 @@
             bindings = <
 &none           &none         &none                &kp LG(V)            &kp PLUS                            &kp LA(RIGHT)   &kp PAGE_UP  &lt 5 UP    &kp PAGE_DOWN  &kp DEL
 &kp LEFT_SHIFT  &kp LA(LEFT)  &none                &kp LA(RIGHT)        &kp ASTERISK    &trans      &trans  &kp LA(LEFT)    &kp LEFT     &lt 4 DOWN  &kp RIGHT      &none
-&kp CARET       &kp CAPSLOCK  &kp INTERNATIONAL_5  &kp INTERNATIONAL_4  &kp LANGUAGE_2  &trans      &trans  &kp LANGUAGE_1  &kp HOME     &none       &kp END        &kp LANGUAGE_5
+&kp LCTRL       &kp CAPSLOCK  &kp INTERNATIONAL_5  &kp INTERNATIONAL_4  &kp LANGUAGE_2  &trans      &trans  &kp LANGUAGE_1  &kp HOME     &none       &kp END        &kp LANGUAGE_5
 &trans          &trans        &trans               &trans               &trans          &trans      &trans  &trans                                                  &trans
             >;
         };
